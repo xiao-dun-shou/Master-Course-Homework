@@ -189,13 +189,13 @@ class FAP():
                      if self.c_fore == c_ave_hat:
                          #
                          self.c_av = c_initial + self.delta
-                         my_cav.append(self.c_av)
+                         # my_cav.append(self.c_av)
                          break
                      else:
                          # c_av 不等于 c_fore
                          self.c_fore = c_ave_hat
                          self.c_av = c_ave_hat + self.delta
-                         my_cav.append(self.c_av)
+                         # my_cav.append(self.c_av)
                          break
                      # self.c_av = c_initial + delta
                      # break
