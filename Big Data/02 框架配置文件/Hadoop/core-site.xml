@@ -1,0 +1,21 @@
+<?xmlversion = "1.0" encoding = "UTF-8"?>
+<?xml-stylesheettype = "text/xsl" href = "configuration.xsl"?>
+
+
+<configuration>
+<property>
+<name>fs.defaultFS</name>
+<value>hdfs://MSI:9000</value>
+</property>
+<property>
+<description>Abaseforothertemporarydirectories.</description>
+</property>
+<property>
+<name>hadoop.proxyuser.wzt.hosts</name>
+<value>*</value>
+</property>
+<property>
+<name>hadoop.proxyuser.wzt.groups</name>
+<value>*</value>
+</property>
+</configuration>
