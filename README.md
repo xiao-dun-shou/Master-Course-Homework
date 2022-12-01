@@ -3,5 +3,5 @@
 ### Fair Assignment Problem
 本文件夹存放了 “计算问题求解” 的相关资料
 
-### big Data
+### Big Data
 本文件夹存放了 “大数据” 的相关资料
