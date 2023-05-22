@@ -8,3 +8,6 @@
 
 ### 03 Fair Assignment Problem
 本文件夹存放了 “计算问题求解” 的相关资料
+
+### 04 Mathematical statistics homework
+本文件夹存放了 “应用梳理统计” 大作业的相关代码
